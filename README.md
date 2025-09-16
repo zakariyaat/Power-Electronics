@@ -72,13 +72,16 @@ Build and simulate a step-down DC-DC converter (buck topology) for voltage regul
 14. Design of a Boost Regulator
 Implement a step-up DC-DC converter (boost topology), analyzing energy storage in inductors and output stability.
 
-15. Single-phase Full-Bridge Inverter
+15. Design of Buck Boost Regulator
+
+ 
+17. Single-phase Full-Bridge Inverter
 Convert DC to AC using a full-bridge inverter, generating square or sinusoidal waveforms for UPS or motor drive applications.
 
-16. Single-phase Full-Bridge Inverter with PWM Control
+18. Single-phase Full-Bridge Inverter with PWM Control
 Enhance the inverter with PWM for better harmonic reduction and variable frequency output.
 
-17. Three-phase Inverter
+19. Three-phase Inverter
 Design a three-phase inverter for AC motor control, including space vector modulation techniques.
 
 
