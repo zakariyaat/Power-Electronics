@@ -83,6 +83,7 @@ Design a three-phase inverter for AC motor control, including space vector modul
 
 
 ## 📂 What’s Included in the Repo?
+Each experiment has its own folder (e.g., exp01_scr_vi_characteristics) with:
 1. **Simulation Files**:
    - MATLAB/Simulink models (`.slx`)
    - LTspice schematics (`.asc` — free, open-source alternative: [ltspice.com](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html))
