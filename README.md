@@ -124,5 +124,5 @@ This repo is open for improvements (e.g., better simulation models, updated temp
 
 
 ## 🙏 Acknowledgments
-- Md. Safiqul Islam sir Assistant Professor, Hajee Mohammad Danesh Science and technology University, Dinajpur
+- Md. Safiqul Islam sir Assistant Professor, Hajee Mohammad Danesh Science and Technology University, Dinajpur
 - Reference Text: Power Electronics Devices, Circuits, and Applications by Muhammad H.Rashid
